@@ -1,0 +1,123 @@
+h1{
+  font-family: 'Abril Fatface', cursive;
+  background: #505050;
+  width: 400px;
+  color: white;
+  position: absolute;
+  margin: auto;
+  font-size: 85px;
+  padding: 50px;
+}
+h2{
+  font-family: 'Jofesine Sans', cursive;
+  color: #222;
+  margin: auto;
+  margin-left: 30px;
+  font-size: 25px;
+}
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 30px;
+  font-size: 22px;
+}
+ul{
+  font-family: 'Josefin Sans', sans-serif;
+  margin: auto;
+  font-size: 22px;
+}
+li{
+  font-family: 'Josefin Sans', sans-serif;
+  margin: auto;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-size: 22px;
+}
+a{
+  font-family: 'Jofesine Sans', cursive;
+  text-decoration: 0;
+  color: white;
+  font-size: 35px;
+}
+a:hover{
+  text-decoration: underline;
+  font-size: 37px;
+}
+main{
+  
+  
+  width: 1000px;
+  margin: auto;
+
+}
+#button-container{
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  background: black;
+  
+  padding: 30px;
+  position: relative;
+  margin-bottom: 50px
+  
+  }
+.row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  aling-content: space-around;
+  align-items: flex-start;
+  margin-bottom: 50px;
+}
+.left{
+  position: relative;
+  width: 500px;
+}
+.body{
+  position: relative;
+  width: 500px;
+}
+.title{
+position: absolute;
+}
+img{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+} 
+.button{
+  width: auto;
+}
+#picture{
+  position: relative;
+}
+#firsth1{
+  font-family: 'abril fatface', cursive;
+  position: absolute;
+  margin-left: 80px;
+  color: #222;
+  background: 0;
+  bottom: 200px;
+  font-size: 50px;
+  padding: 0;
+}
+#firsth2{
+  font-family: 'abril fatface', cursive;
+  position: absolute;
+  margin-left: 80px;
+  margin-bottom: 0;
+  bottom: 25px;
+  font-size: 100px;
+  line-height: 90%;
+}
+.uppercase  {
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.italian {
+  font-style: italic;
+  margin-top: 0;
+}
